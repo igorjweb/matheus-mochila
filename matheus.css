@@ -1,0 +1,27 @@
+body{
+    background-color :white;
+  
+}
+h1{
+    color: transparent;
+    font-size: 10rem;
+    background-image: url("https://img.freepik.com/fotos-gratis/um-fundo-vermelho-e-preto-com-um-fundo-preto-e-um-redemoinho-vermelho_1340-27368.jpg");
+    background-clip: text;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+p{
+    color: white;
+    display: flex;
+    justify-content: end;
+}
+img{
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+}
+button{
+    background-color: pink;
+}
